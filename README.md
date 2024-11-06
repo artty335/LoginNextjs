@@ -15,8 +15,6 @@ This project is a simple login page built with Next.js, Material-UI, and JWT for
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/artty335/LoginNextjs.git
-
-
