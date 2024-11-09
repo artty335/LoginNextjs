@@ -13,7 +13,7 @@ This project is a simple login page built with Next.js, Material-UI, and JWT for
 - **Node.js**: Ensure Node.js is installed.
 - **MySQL Database**: Set up a MySQL database and configure the connection in the `.env` file.
 
-## 🚀 Getting Started
+## 🚀 Getting Started :)
 
 ### Clone the repository
 ```bash
