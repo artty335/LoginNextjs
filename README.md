@@ -10,7 +10,7 @@ This project is a simple login page built with Next.js, Material-UI, and JWT for
 - **Animations**: Subtle animations to enhance the user experience.
 
 ## 🛠 Prerequisites
-- **Node.js**: Ensure Node.js is installed.
+- **Node.js**: Ensure Node.js is installed
 - **MySQL Database**: Set up a MySQL database and configure the connection in the `.env` file.
 
 ## 🚀 Getting Started
